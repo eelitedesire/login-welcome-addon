@@ -1,0 +1,13 @@
+{
+    "name": "Login Welcome Add-on",
+    "version": "1.0.0",
+    "slug": "login-welcome-addon",
+    "description": "Add-on to provide login and welcome pages.",
+    "startup": "application",
+    "ports": {
+      "http": 8080
+    },
+    "options": {},
+    "schema": {}
+  }
+  
